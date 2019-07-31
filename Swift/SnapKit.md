@@ -1,0 +1,3 @@
+# SnapKit
+
+StoryboardとかXIBを利用せずにAutoLayoutをコード上で簡単に設定するためのライブラリ。
